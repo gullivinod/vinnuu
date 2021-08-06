@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(110, 192, 240);
+}
+.nav-item,
+.nav-link {
+  color: black;
+}
+.header-main-tabs .nav-item .nav-link {
+  color: white;
+}
+
+.condition {
+  display: flex;
+  flex-direction: row;
+  margin-top: 40px;
+}
+.how,
+.consumer {
+  margin: 0px 40px;
+}
+
+.how {
+  font-weight: 20px;
+}
+.primary {
+  background-color: white;
+  width: 100%;
+  padding-left: 610px;
+  position: fixed;
+  bottom: 0px;
+  box-shadow: 0 3px 5px rgb(0 0 0);
+}
+.paragraph {
+  margin: 50px;
+  width: 46%;
+  margin-left: 90px;
+  color: white;
+  font-size: 20px;
+}
+.head {
+  width: 30%;
+  margin-left: 94px;
+  color: white;
+  font-style: oblique;
+}
+.navbar-brand {
+  margin-left: 40px;
+}
+.center {
+  border: 10px solid white;
+  box-shadow: 0 2px 4px rgb(0 0 0);
+  background-color: white;
+  width: 100%;
+}
+.cloud {
+  border: 10px solid white;
+  box-shadow: 0 3px 5px rgb(0 0 0);
+}
+.how {
+  padding-right: 90px;
+}
+.consumer {
+  margin-right: 100px;
+}
+.nav-tab {
+  border-left: 3px solid white;
+  height: 54px;
+  position: absolute;
+  left: 85%;
+  margin-left: -3px;
+  top: 0;
+}
+.image {
+  height: 30px;
+  width: 30px;
+  margin-left: 100px;
+}
